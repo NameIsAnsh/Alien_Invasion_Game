@@ -3,6 +3,7 @@ from pygame.sprite import Group
 from ship import Ship
 
 
+
 class Scoreboard:
     def __init__(self, ai, screen, stats):
         self.screen = screen
