@@ -9,6 +9,7 @@ from pygame.sprite import Group
 from scoreboard import Scoreboard
 
 
+
 def run_game():
     pygame.init()
     ai = settings()
